@@ -1,0 +1,1 @@
+# This provide useful JSON files for different demands and tips that help to use vscode easier.
